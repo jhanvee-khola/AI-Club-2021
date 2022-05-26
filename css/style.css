@@ -787,7 +787,7 @@ ul.social-network li a i {
 Footer
 ================================= */
 footer {
-	background: black;
+	background: rgba(37, 36, 36, 0.582);
 	color: #fff;
 	padding: 50px 0 30px;
 }
